@@ -1,0 +1,28 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#101712"/>
+  <path d="M0 0H1200V630H0z" fill="url(#a)" fill-opacity=".72"/>
+  <path d="M0 476C230 430 367 506 603 471C817 439 961 328 1200 354V630H0V476Z" fill="#18231B"/>
+  <g opacity=".13" stroke="#C7FF4A">
+    <path d="M0 105H1200M0 210H1200M0 315H1200M0 420H1200M0 525H1200"/>
+    <path d="M100 0V630M300 0V630M500 0V630M700 0V630M900 0V630M1100 0V630"/>
+  </g>
+  <g transform="translate(72 64)">
+    <rect width="58" height="58" rx="16" fill="#C7FF4A"/>
+    <path d="M14 18L21 43L29 28L37 43L44 18" stroke="#101712" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M43 12L47 16" stroke="#101712" stroke-width="3.2" stroke-linecap="round"/>
+    <text x="76" y="42" fill="#F5F4EE" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="-1">warewise</text>
+  </g>
+  <text x="72" y="264" fill="#F5F4EE" font-family="Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-3.4">Your inventory should be</text>
+  <text x="72" y="344" fill="#C7FF4A" font-family="Arial, sans-serif" font-size="72" font-weight="700" font-style="italic" letter-spacing="-3.4">working harder than you are.</text>
+  <text x="72" y="422" fill="#B9C2BB" font-family="Arial, sans-serif" font-size="25">Managed revenue operations for one-of-one inventory.</text>
+  <g transform="translate(72 516)">
+    <rect width="248" height="50" rx="25" fill="#C7FF4A"/>
+    <text x="24" y="32" fill="#101712" font-family="Arial, sans-serif" font-size="17" font-weight="700">GETWAREWISE.COM  →</text>
+  </g>
+  <defs>
+    <radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="translate(1030 98) rotate(140) scale(520 430)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8EBD45"/>
+      <stop offset="1" stop-color="#101712" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
